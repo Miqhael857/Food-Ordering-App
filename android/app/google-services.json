@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748084291695",
+    "project_id": "michael-food-app",
+    "storage_bucket": "michael-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748084291695:android:958c75fef3803f85b6c59a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_signinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748084291695-5a8ugbkdn5m0bv78a3a3q4p6ae6jk0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OZY0d1_vku0I_baC9kec4AJRiiII76E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748084291695-5a8ugbkdn5m0bv78a3a3q4p6ae6jk0qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
